@@ -53,7 +53,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "The Dreaming Bot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         maximumAfk: 120,
@@ -66,7 +66,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 8.5,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -91,8 +91,8 @@
         opLink: null,
         rulesLink: "http://bit.ly/16nq3ZO",
         themeLink: null,
-        fbLink: null,
-        youtubeLink: null,
+        fbLink: "https://www.facebook.com/DJExlips",
+        youtubeLink: "https://www.youtube.com/user/djexlips/",
         website: null,
         intervalMessages: [],
         messageInterval: 5,
