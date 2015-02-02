@@ -89,7 +89,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: https://docs.google.com/document/d/1MLv43kMyrONeI0OqxEv1GqdK-0Rhp9PPkMVUOMMuyvg/edit,
+        rulesLink: "http://bit.ly/16nq3ZO",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
