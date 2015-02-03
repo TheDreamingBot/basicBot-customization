@@ -106,7 +106,7 @@ bot.commands.scCommand = {
         themeLink: null,
         fbLink: "https://www.facebook.com/DJExlips",
         youtubeLink: "https://www.youtube.com/user/djexlips/",
-        soundcloudLink: "https://soundcloud.com/djexlips"
+        soundcloudLink: "https://soundcloud.com/djexlips",
         website: null,
         intervalMessages: [],
         messageInterval: 5,
