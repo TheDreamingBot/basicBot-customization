@@ -87,7 +87,7 @@
         motd: "Temporary Message of the Day",
         filterChat: true,
         etaRestriction: false,
-        welcome: true,
+        welcome: false,
         opLink: null,
         rulesLink: "http://bit.ly/16nq3ZO",
         themeLink: null,
@@ -96,7 +96,7 @@
         website: null,
         intervalMessages: [],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
