@@ -34,7 +34,7 @@
          */
  
          bot.commands.testCommand = {
-             command: 'cmd',
+             command: 'test',
              rank: 'user',
              type: 'exact',
              functionality: function (chat, cmd) {
@@ -44,7 +44,7 @@
                      API.sendChat ("/m Test!!!");
                  }
              }
-         }    
+         };
 
         bot.commands.baconCommand = {
             command: 'bacon',  //The command to be called. With the standard command literal this would be: !bacon
